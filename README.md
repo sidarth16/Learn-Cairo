@@ -9,3 +9,12 @@
     - Shadowing vars
     - Type conversion
         - into()
+- 2.2 - Data Types
+    - Scalar Types (Felt, Integer, Booleans)
+        - Numeric Opertations
+        - Strings, ByteArray Strings
+    - Compound Types
+        - Tuple, Fixed Size Array Type
+        - Accessing Fixed Size Arrays Elements
+    - Type Conversion
+        - into , try_into
