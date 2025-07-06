@@ -2,7 +2,7 @@
 
 - 1.2 - Hello World : Cairo
 - 1.2 - is_prime() 
-- 2.1 - Variables & Mutuability
+- 2.1 - Variables & Mutability
     - Simple Variable declaration
     - Mutable variable
     - Constants
@@ -18,3 +18,11 @@
         - Accessing Fixed Size Arrays Elements
     - Type Conversion
         - into , try_into
+
+- 2.3 - Functions
+    - simple function
+    - parameters
+        - Named Parameters
+    - Statements and Expressions
+    - Functions with Return Values
+    - Const Functions
