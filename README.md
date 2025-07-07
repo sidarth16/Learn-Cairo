@@ -26,3 +26,8 @@
     - Statements and Expressions
     - Functions with Return Values
     - Const Functions
+
+- 2.4 - Comments
+    - Simple and multi-lie comments (//)
+    - Item-level Documentation (/// : functions, implementations, traits, etc.)
+    - Module Documentation (//!)
